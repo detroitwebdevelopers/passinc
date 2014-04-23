@@ -8,4 +8,4 @@
 #Ignore all dirs and files in a directory
 # tmp/**/*
 
-wpconfig.php
+wp-config.php
