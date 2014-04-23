@@ -1,0 +1,11 @@
+# Ignore specific files
+# filename.php
+
+# use wildcards
+# *~
+# *.svn
+
+#Ignore all dirs and files in a directory
+# tmp/**/*
+
+wpconfig.php
