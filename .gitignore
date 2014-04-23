@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -213,3 +214,16 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+=======
+# Ignore specific files
+# filename.php
+
+# use wildcards
+# *~
+# *.svn
+
+#Ignore all dirs and files in a directory
+# tmp/**/*
+
+wp-config.php
+>>>>>>> bbe95ce20b883bc2ed7c2b67b45822a920c8ffaa
